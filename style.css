@@ -1,0 +1,49 @@
+body
+{
+   font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1
+{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 30px
+}
+h3{ 
+    text-align: center;
+}
+h3 p{ 
+    text-align: center;
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 7px;
+}
+.about-me
+    {background-image: url(images/bg-pic.png);
+        background-repeat: no-repeat;
+    }
+. Recipies-area{
+    
+}   
+        
